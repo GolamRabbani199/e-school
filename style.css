@@ -1,0 +1,136 @@
+
+.background {
+        background-color: #F0FFF0;
+        height: 560px;
+}
+.icon{
+    max-height: 50px;
+}
+.buy-course-button {
+    background-color: #21B573;
+    border-radius: 30px;
+    border: 1px solid #21B573;
+    width: 140px;
+}
+.buy-course-button:hover{
+   background-color:green;
+}
+#inside-color{
+    color: white;
+}
+.fun{
+    color: #21B573;
+
+}
+.illustration {
+    margin-top: 50px;
+    width: 430px;
+    height: 315px;
+}
+#sign-in {
+    margin-left: 30px;
+}
+#half-width {
+    margin-top: 80px;
+}
+.red{
+    color:orangered;
+}
+.font-large {
+    font-size: 60px;
+    font-weight: bold;
+}
+#space1{
+    margin-top: 40px;
+}
+.image-size{
+
+height: 70px;
+width: 65px;
+}
+#card-height {
+    height: 100px;
+}
+#space2{
+    margin-top: 80px;
+}
+
+.feat-card {
+    height: 220px; 
+    width: 220px; 
+    background-color:#F8FFFB; 
+    border: none;
+    border-radius: 5px solid white;
+}
+
+.feat-card:hover {
+    box-shadow: 0px 7px 15px 1px #dddddd;
+    background-color: #fff;
+}
+.feat-card1{
+        position: relative;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        background-color: #fff;
+        background-clip: border-box;
+        border: 1px solid white;
+        border-radius: 1rem;
+        box-shadow: 0px 7px 15px 1px #dddddd;
+
+}
+
+.feat-card img {
+    margin-top:38px ;margin-left: 80px;
+}
+.icon-width {
+    height: 25px;
+    width: 25px;
+}
+#photo {
+    padding: 25px 20px;
+}
+#icon-left {
+    margin-left: 200px;
+    margin-top: -115px;
+}
+.top {
+    margin-top: -75px;
+    margin-left: 235px;
+}
+.top1 {
+    margin-left: 40px;
+    padding-bottom: 23px;
+    margin-top: -22px;
+}
+#man {
+    height: 115px;
+    margin-left: 195px;
+}
+.paras {
+    margin-top: -105px;
+    margin-left: 370px;
+}
+.copyright p {
+    margin-top: 100px;
+}
+#space3 {
+    margin-top: 150px;
+    color: white;
+}
+.bg-color {
+    background-color: #282531;
+    height: 370px;
+    margin-bottom: 60px;
+}
+#import{
+    padding-top: 60px;
+}
+#text-color {
+    padding-left: 160px;
+}
+
+
